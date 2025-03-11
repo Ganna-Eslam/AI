@@ -1,0 +1,15 @@
+1- Data Analysis                                                                                                                                                                              
+2- Visualization                                                                                                                                                                              
+3- Data Preprocessing                                                                                                                                                                         
+4- Encoding                                                                                                                                                                                   
+4 - Scaling                                                                                                                                                                                   
+5- UnBalanced Data Processing (using SMOTE)                                                                                                                                                   
+6 - Machine Learning Models                                                                                                                                                                   
+    1.Logistic Regression                                                                                                                                                                                                                                                                                                                                        
+    2.Decision Tree                                                                                                                                                                               
+    3.Random Forest                                                                                                                                                                                    
+    4.SVM                                                                                                                                                                                               
+    5.KNN                                                                                                                                                                                                
+7- Deep Learning Models                                                                                                                                                                                       
+8- Comparasion Between Models                                                                                                                                                                                  
+8- Fine tuning (using RandomSearch)                                                                                                                                                                              
